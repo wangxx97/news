@@ -26,6 +26,10 @@ a {
     margin-left: 5px;
 }
 
+.nav-left > a:hover{
+    color: #dddddd;
+}
+
 .nav-left:last-child {
     margin-left: 1px;
 }
